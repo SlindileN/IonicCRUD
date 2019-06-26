@@ -1,0 +1,20 @@
+ion-toolbar {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-emphasis-color: white;
+    -moz-text-decoration-style: solid;
+    height: 70px;
+   --background:#581845;
+ }
+
+ ion-title{
+    color: white; 
+ }
+
+ion-button{
+    --background:#581845; 
+}
+.bg-image{
+    background: url('../../assets/feathers.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
